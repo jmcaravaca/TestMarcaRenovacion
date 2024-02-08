@@ -1,0 +1,95 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TestMLSkill.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtResString&Sequence_1",
+        "ExtRes&Sequence_1",
+        "dom&Sequence_1",
+        "doctext&Sequence_1",
+        "Config&Sequence_1",
+        "docTaxonomy&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_TargetDocument"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/30_Classify.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_TargetDocument",
+        "in_DocTaxonomy",
+        "in_DOM",
+        "in_DocText",
+        "in_Config",
+        "in_MaxAttempts",
+        "in_RetryInterval",
+        "out_ClassificationResultsArray"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/20_Digitize.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_TargetDocument",
+        "in_Config",
+        "in_MaxAttempts",
+        "in_RetryInterval",
+        "out_DOM",
+        "out_DocText"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/10_InitializeProcess.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "configDT&Sequence_4",
+        "assetValue&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_AssetsSheet",
+        "in_ConfigFile",
+        "in_MaxAttempts",
+        "in_RetryInterval",
+        "io_Config",
+        "out_DocTaxonomy"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/70_Export.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outputPath&Sequence_1",
+        "exportDataSet&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_ExtractionResults",
+        "in_Config",
+        "in_MaxAttempts",
+        "in_RetryInterval"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
