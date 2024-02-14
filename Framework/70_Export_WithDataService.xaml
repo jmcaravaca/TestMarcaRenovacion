@@ -9,7 +9,7 @@
   <VisualBasic.Settings>
     <x:Null />
   </VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1175,2471</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1175,2593</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>_70_Export_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="64">
@@ -118,12 +118,13 @@
       <AssemblyReference>UiPath.System.Activities.ViewModels</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="Post-extraction &amp; Data Export&#xA;&#xA;Post extraction - any logic that must be executed after data extraction and prior to the data export belongs here (eg: format the data according to an export schema)&#xA;&#xA;Data Export - output the data to make it usable by the Business users or by subsequent processes. We recommend using UiPath's DataService." DisplayName="Export" sap:VirtualizedContainerService.HintSize="496,2406" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="Post-extraction &amp; Data Export&#xA;&#xA;Post extraction - any logic that must be executed after data extraction and prior to the data export belongs here (eg: format the data according to an export schema)&#xA;&#xA;Data Export - output the data to make it usable by the Business users or by subsequent processes. We recommend using UiPath's DataService." DisplayName="Export" sap:VirtualizedContainerService.HintSize="496,2528" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" sap2010:Annotation.AnnotationText="Used to store the path to the file where the extracted data will be saved." Name="outputPath" />
       <Variable x:TypeArguments="sd:DataSet" sap2010:Annotation.AnnotationText="Used to store the exported data from the ExtractionResults in the Export Extraction Results activity." Name="exportDataSet" />
       <Variable x:TypeArguments="sd:DataRow" Name="rowData" />
       <Variable x:TypeArguments="sd:DataRow" Name="rowDataClases" />
+      <Variable x:TypeArguments="x:String" Name="fechaVencimiento" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -201,7 +202,15 @@
         <InArgument x:TypeArguments="sd:DataRow">[exportDataSet.Tables("clases").Rows(exportDataSet.Tables("clases").RowCount - 1)]</InArgument>
       </Assign.Value>
     </Assign>
-    <uda:CreateEntityRecord x:TypeArguments="t:DatosMarcaRenovacion" InputEntity="{x:Null}" IsInRecordView="{x:Null}" OutputEntity="{x:Null}" VisibleDynamicPropertiesInfo="{x:Null}" ContinueOnError="False" DisplayName="Create Entity Record" EntityId="331a902d-11cb-ee11-85f9-0022489f653e" ExpansionDepth="2" sap:VirtualizedContainerService.HintSize="434,530" sap2010:WorkflowViewState.IdRef="CreateEntityRecord`1_1" InputEntityInFieldView="[new TestMarcaRenovacion.DatosMarcaRenovacion() With {  .clase = If(Not rowDataClases.IsNull(&quot;clases&quot;),  rowDataClases(&quot;clases&quot;).ToString(), &quot;&quot;),  .descrclase = If(Not rowDataClases.IsNull(&quot;desc-clases&quot;),  rowDataClases(&quot;desc-clases&quot;).ToString(), &quot;&quot;),  .distintivo = If(Not rowData.IsNull(&quot;distintivo&quot;),  rowData(&quot;distintivo&quot;).ToString(), &quot;&quot;),  .fechapublicacion = If(Not rowData.IsNull(&quot;fecha-publicacion&quot;),  rowData(&quot;fecha-publicacion&quot;).ToString(), &quot;&quot;),  .fechavencimiento = If(Not rowData.IsNull(&quot;fecha-vencimiento&quot;),  rowData(&quot;fecha-vencimiento&quot;).ToString(), &quot;&quot;),  .nummarca = If(Not rowData.IsNull(&quot;num-marca&quot;),  rowData(&quot;num-marca&quot;).ToString(), &quot;&quot;),  .PDFFile = in_Filename,  .titular = If(Not rowData.IsNull(&quot;titular&quot;),  rowData(&quot;titular&quot;).ToString(), &quot;&quot;) }]" TimeoutInMs="30000">
+    <Assign sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_4">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:String">[fechaVencimiento]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:String" xml:space="preserve">[If(Not rowData.IsNull("fecha-vencimiento"),  rowData("fecha-vencimiento").ToString(), CDate(rowData("fecha-publicacion")).AddYears(10).ToString("dd/MM/yyyy"))]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <uda:CreateEntityRecord x:TypeArguments="t:DatosMarcaRenovacion" InputEntity="{x:Null}" IsInRecordView="{x:Null}" OutputEntity="{x:Null}" VisibleDynamicPropertiesInfo="{x:Null}" ContinueOnError="False" DisplayName="Create Entity Record" EntityId="331a902d-11cb-ee11-85f9-0022489f653e" ExpansionDepth="2" sap:VirtualizedContainerService.HintSize="434,530" sap2010:WorkflowViewState.IdRef="CreateEntityRecord`1_1" InputEntityInFieldView="[new TestMarcaRenovacion.DatosMarcaRenovacion() With {  .clase = If(Not rowDataClases.IsNull(&quot;clases&quot;),  rowDataClases(&quot;clases&quot;).ToString(), &quot;&quot;),  .descrclase = If(Not rowDataClases.IsNull(&quot;desc-clases&quot;),  rowDataClases(&quot;desc-clases&quot;).ToString(), &quot;&quot;),  .distintivo = If(Not rowData.IsNull(&quot;distintivo&quot;),  rowData(&quot;distintivo&quot;).ToString(), &quot;&quot;),  .fechapublicacion = If(Not rowData.IsNull(&quot;fecha-publicacion&quot;),  rowData(&quot;fecha-publicacion&quot;).ToString(), &quot;&quot;),  .fechavencimiento = fechaVencimiento,  .nummarca = If(Not rowData.IsNull(&quot;num-marca&quot;),  rowData(&quot;num-marca&quot;).ToString(), &quot;&quot;),  .PDFFile = in_Filename,  .titular = If(Not rowData.IsNull(&quot;titular&quot;),  rowData(&quot;titular&quot;).ToString(), &quot;&quot;) }]" TimeoutInMs="30000">
       <uda:CreateEntityRecord.State>
         <udam:RecordState>
           <udam:RecordState.SelectedFields>
@@ -228,7 +237,7 @@
               </udam:DynamicEntityField>
               <udam:DynamicEntityField Id="8fd68cbc-2ccb-ee11-85f9-0022489f653e" Name="fechavencimiento">
                 <udam:DynamicEntityField.ArgumentValue>
-                  <InArgument x:TypeArguments="x:String" xml:space="preserve">[If(Not rowData.IsNull("fecha-vencimiento"),  rowData("fecha-vencimiento").ToString(), "")]</InArgument>
+                  <InArgument x:TypeArguments="x:String">[fechaVencimiento]</InArgument>
                 </udam:DynamicEntityField.ArgumentValue>
               </udam:DynamicEntityField>
               <udam:DynamicEntityField Id="8ed68cbc-2ccb-ee11-85f9-0022489f653e" Name="nummarca">
