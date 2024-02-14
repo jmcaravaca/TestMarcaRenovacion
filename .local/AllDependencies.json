@@ -3959,6 +3959,48 @@
           "lib/net5.0/ConnectionClient.dll": {}
         }
       },
+      "UiPath.DataService.Activities/23.10.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/_._": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/UiPath.DataService.Activities.Core.dll": {},
+          "lib/net6.0-windows7.0/UiPath.DataService.Activities.Design.dll": {}
+        },
+        "resource": {
+          "lib/net6.0-windows7.0/de/UiPath.DataService.Activities.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/de/UiPath.DataService.Activities.Design.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/es/UiPath.DataService.Activities.Core.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/es/UiPath.DataService.Activities.Design.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/fr/UiPath.DataService.Activities.Core.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/fr/UiPath.DataService.Activities.Design.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ja/UiPath.DataService.Activities.Core.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net6.0-windows7.0/ja/UiPath.DataService.Activities.Design.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net6.0-windows7.0/pt-BR/UiPath.DataService.Activities.Core.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net6.0-windows7.0/pt-BR/UiPath.DataService.Activities.Design.resources.dll": {
+            "locale": "pt-BR"
+          }
+        }
+      },
       "UiPath.DocumentProcessing.Contracts/1.23.1": {
         "type": "package",
         "dependencies": {
@@ -9730,6 +9772,48 @@
         },
         "runtime": {
           "lib/net5.0/ConnectionClient.dll": {}
+        }
+      },
+      "UiPath.DataService.Activities/23.10.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/_._": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/UiPath.DataService.Activities.Core.dll": {},
+          "lib/net6.0-windows7.0/UiPath.DataService.Activities.Design.dll": {}
+        },
+        "resource": {
+          "lib/net6.0-windows7.0/de/UiPath.DataService.Activities.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/de/UiPath.DataService.Activities.Design.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/es/UiPath.DataService.Activities.Core.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/es/UiPath.DataService.Activities.Design.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/fr/UiPath.DataService.Activities.Core.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/fr/UiPath.DataService.Activities.Design.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ja/UiPath.DataService.Activities.Core.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net6.0-windows7.0/ja/UiPath.DataService.Activities.Design.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net6.0-windows7.0/pt-BR/UiPath.DataService.Activities.Core.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net6.0-windows7.0/pt-BR/UiPath.DataService.Activities.Design.resources.dll": {
+            "locale": "pt-BR"
+          }
         }
       },
       "UiPath.DocumentProcessing.Contracts/1.23.1": {
@@ -21050,6 +21134,37 @@
         "uipath.connectionclient.nuspec"
       ]
     },
+    "UiPath.DataService.Activities/23.10.0": {
+      "sha512": "0cCK+xPIuqj0JjsOPpVH52VOdWDqAAQpPM8fr2CX59Y4vR4hwhFx1srnOBP3CqmHNybJlSuSDuvVFo7HeuQDEg==",
+      "type": "package",
+      "path": "uipath.dataservice.activities/23.10.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net6.0-windows7.0/UiPath.DataService.Activities.Core.dll",
+        "lib/net6.0-windows7.0/UiPath.DataService.Activities.Design.dll",
+        "lib/net6.0-windows7.0/de/UiPath.DataService.Activities.Core.resources.dll",
+        "lib/net6.0-windows7.0/de/UiPath.DataService.Activities.Design.resources.dll",
+        "lib/net6.0-windows7.0/es/UiPath.DataService.Activities.Core.resources.dll",
+        "lib/net6.0-windows7.0/es/UiPath.DataService.Activities.Design.resources.dll",
+        "lib/net6.0-windows7.0/fr/UiPath.DataService.Activities.Core.resources.dll",
+        "lib/net6.0-windows7.0/fr/UiPath.DataService.Activities.Design.resources.dll",
+        "lib/net6.0-windows7.0/ja/UiPath.DataService.Activities.Core.resources.dll",
+        "lib/net6.0-windows7.0/ja/UiPath.DataService.Activities.Design.resources.dll",
+        "lib/net6.0-windows7.0/pt-BR/UiPath.DataService.Activities.Core.resources.dll",
+        "lib/net6.0-windows7.0/pt-BR/UiPath.DataService.Activities.Design.resources.dll",
+        "lib/net6.0/UiPath.DataService.Activities.Core.dll",
+        "lib/net6.0/UiPath.DataService.Definition.dll",
+        "lib/net6.0/de/UiPath.DataService.Activities.Core.resources.dll",
+        "lib/net6.0/es/UiPath.DataService.Activities.Core.resources.dll",
+        "lib/net6.0/fr/UiPath.DataService.Activities.Core.resources.dll",
+        "lib/net6.0/ja/UiPath.DataService.Activities.Core.resources.dll",
+        "lib/net6.0/pt-BR/UiPath.DataService.Activities.Core.resources.dll",
+        "uipath.dataservice.activities.23.10.0.nupkg.sha512",
+        "uipath.dataservice.activities.nuspec"
+      ]
+    },
     "UiPath.DocumentProcessing.Contracts/1.23.1": {
       "sha512": "OVI7SGYT2xNmqukxdTkabdeBleJxYBlhGb0S5z/tmxVs/EDquyLTXIGBIwk8swN5g1crgXBgbc7E9Izkf8hSGA==",
       "type": "package",
@@ -24253,6 +24368,7 @@
   "projectFileDependencyGroups": {
     "": [],
     "net6.0-windows7.0": [
+      "UiPath.DataService.Activities >= 23.10.0 <= 23.10.0",
       "UiPath.DocumentUnderstanding.ML.Activities >= 1.24.0 <= 1.24.0",
       "UiPath.Excel.Activities >= 2.22.3 <= 2.22.3",
       "UiPath.IntelligentOCR.Activities >= 6.14.1 <= 6.14.1",
@@ -24275,6 +24391,11 @@
     "frameworks": {
       "net6.0-windows7.0": {
         "dependencies": {
+          "UiPath.DataService.Activities": {
+            "include": "Runtime",
+            "target": "Package",
+            "version": "[23.10.0, 23.10.0]"
+          },
           "UiPath.DocumentUnderstanding.ML.Activities": {
             "include": "Runtime",
             "target": "Package",

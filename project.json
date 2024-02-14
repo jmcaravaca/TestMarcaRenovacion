@@ -2,8 +2,9 @@
   "name": "TestMarcaRenovacion",
   "projectId": "59de6a96-0406-4df8-9003-e83330f1b286",
   "description": "TestMarcaRenovacion",
-  "main": "Main-ActionCenter.xaml",
+  "main": "PoC\\TestMLSkill.xaml",
   "dependencies": {
+    "UiPath.DataService.Activities": "[23.10.0]",
     "UiPath.DocumentUnderstanding.ML.Activities": "[1.24.0]",
     "UiPath.Excel.Activities": "[2.22.3]",
     "UiPath.IntelligentOCR.Activities": "[6.14.1]",
@@ -12,7 +13,14 @@
     "UiPath.UIAutomation.Activities": "[23.10.8]"
   },
   "webServices": [],
-  "entitiesStores": [],
+  "entitiesStores": [
+    {
+      "serviceDocument": ".entities/EntitiesStore.json",
+      "tenantName": "AICenterTests",
+      "namespace": "TestMarcaRenovacion",
+      "uniqueReference": "U6G6ZSKgU3gt1tQZO0S7HWGG35RJaejCqXL3xRReOX8="
+    }
+  ],
   "schemaVersion": "4.0",
   "studioVersion": "23.10.3.0",
   "projectVersion": "1.0.0",
@@ -174,6 +182,12 @@
     {
       "filePath": "Main-ActionCenter.xaml",
       "uniqueId": "ea566f1c-722b-43f6-b182-605ace45d4b7",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "PoC\\TestMLSkill.xaml",
+      "uniqueId": "1f78ad50-6e5e-4714-9d35-b43e04d70f7b",
       "input": [],
       "output": []
     }

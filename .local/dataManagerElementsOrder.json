@@ -9,9 +9,11 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "TestMLSkill.xaml",
+      "Path": "PoC/TestMLSkill.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "CurrentFile&Sequence_3",
+        "tItem&Sequence_1",
         "ExtResString&Sequence_1",
         "ExtRes&Sequence_1",
         "dom&Sequence_1",
@@ -88,6 +90,14 @@
         "in_MaxAttempts",
         "in_RetryInterval"
       ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "PoC/GetData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }

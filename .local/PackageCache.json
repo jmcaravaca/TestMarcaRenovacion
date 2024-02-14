@@ -30,9 +30,9 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\3.7.0\\lib/net6.0/UiPath.DocumentUnderstanding.Digitizer.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib/net6.0-windows7.0/UiPath.DocumentUnderstanding.ML.Activities.Design.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib/net6.0-windows7.0/UiPath.DocumentUnderstanding.ML.Activities.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib/net6.0-windows7.0/UiPath.DocumentUnderstanding.ML.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib/net6.0-windows7.0/UiPath.DocumentUnderstanding.ML.Telemetry.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib/net6.0-windows7.0/UiPath.DocumentUnderstanding.ML.Trainer.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib/net6.0-windows7.0/UiPath.DocumentUnderstanding.ML.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll"
       ],
@@ -50,10 +50,10 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib/netstandard2.0/ExcelNumberFormat.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib/netstandard2.0/Microsoft.VisualStudio.OLE.Interop.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OOXML.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXml4Net.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
@@ -61,8 +61,8 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/Microsoft.Vbe.Interop.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/Office.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/UiPath.Excel.Activities.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/UiPath.Excel.Activities.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/UiPath.Excel.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll"
@@ -102,31 +102,31 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\tinycsvparser\\2.5.2\\lib/netstandard2.1/TinyCsvParser.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/CefSharp.BrowserSubprocess.Core.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/CefSharp.BrowserSubprocess.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/CefSharp.Core.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/CefSharp.Core.Runtime.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/CefSharp.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/CefSharp.Core.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/CefSharp.Wpf.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/CefSharp.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/Ijwhost.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/UiPath.CefSharpBundle.NetCore.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/chrome_elf.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/d3dcompiler_47.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/Ijwhost.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/libcef.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/libEGL.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/libGLESv2.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/libcef.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/msvcp140.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/UiPath.CefSharpBundle.NetCore.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/swiftshader/libEGL.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/swiftshader/libGLESv2.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/vcruntime140.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/vcruntime140_1.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/vk_swiftshader.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/vulkan-1.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/swiftshader/libEGL.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib/net6.0-windows7.0/swiftshader/libGLESv2.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.connectionclient\\1.4.4-20230126.1\\lib/net5.0/ConnectionClient.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.23.1\\lib/net6.0/UiPath.DocumentProcessing.Contracts.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\3.7.0\\lib/net6.0/UiPath.DocumentUnderstanding.Digitizer.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/concrt140.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/cvextern.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/Emgu.CV.Bitmap.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/Emgu.CV.Platform.NetStandard.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/concrt140.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/cvextern.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140_1.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib/net5.0/msvcp140_2.dll",
@@ -139,12 +139,12 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.DocumentUnderstanding.Persistence.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.IntelligentOCR.Activities.Design.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.IntelligentOCR.Activities.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.IntelligentOCR.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.IntelligentOCR.Legacy.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.IntelligentOCR.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.AccessProvider.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.BusinessRules.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.ClassificationStation.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.ClassificationStation.Host.Local.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.ClassificationStation.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.Data.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.DocumentClassification.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.Host.Local.Infrastructure.dll",
@@ -154,17 +154,17 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.OutOfProcessUi.Common.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.OutOfProcessUi.Host.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.PDF.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.PositionBasedExtraction.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.PositionBasedExtraction.TemplateManager.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.PositionBasedExtraction.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.TableProcessing.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.TaxonomyManager.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.TaxonomyManager.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.Telemetry.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.Utils.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.ValidationStation.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.ValidationStation.Host.Local.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.ValidationStation.Integration.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.ValidationStation.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib/net6.0-windows7.0/UiPath.SmartData.WPF.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.ocr.activities\\3.17.1\\lib/net6.0-windows7.0/UiPath.OCR.Activities.Design.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.ocr.activities\\3.17.1\\lib/net6.0-windows7.0/UiPath.OCR.Activities.dll",
@@ -207,8 +207,8 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Options.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.Management.Infrastructure.CimCmdlets.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.powershell.commands.diagnostics\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Diagnostics.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.powershell.commands.management\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Management.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.powershell.commands.utility\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Utility.dll",
@@ -244,8 +244,8 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Duplex.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Http.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\lib/netstandard2.0/System.ServiceModel.NetTcp.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.Primitives.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Security.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\lib/netstandard2.0/System.ServiceModel.Syndication.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\runtimes/win/lib/netstandard2.0/System.ServiceProcess.ServiceController.dll",
@@ -279,8 +279,8 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Api.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Design.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib/net6.0-windows7.0/UiPath.Testing.Activities.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib/net6.0-windows7.0/UiPath.Testing.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib/net6.0-windows7.0/UiPath.Testing.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0"
     },
@@ -316,19 +316,30 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib/net6.0-windows7.0/UiPath.CV.Activities.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib/net6.0-windows7.0/UiPath.CV.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib/net6.0-windows7.0/UiPath.Semantic.Activities.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationCore.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.API.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Contracts.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.API.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.Core.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities\\23.10.8"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.DataService.Activities",
+        "Version": "23.10.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.dataservice.activities\\23.10.0\\lib/net6.0-windows7.0/UiPath.DataService.Activities.Core.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.dataservice.activities\\23.10.0\\lib/net6.0-windows7.0/UiPath.DataService.Activities.Design.dll"
+      ],
+      "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.dataservice.activities\\23.10.0"
     }
   ],
   "Conflicts": [],
@@ -4146,6 +4157,11 @@
         }
       ]
     },
+    "UiPath.DataService.Activities": {
+      "Id": "UiPath.DataService.Activities",
+      "Version": "23.10.0",
+      "Dependencies": []
+    },
     "UiPath.DocumentProcessing.Contracts": {
       "Id": "UiPath.DocumentProcessing.Contracts",
       "Version": "1.23.1",
@@ -5240,8 +5256,8 @@
         "Version": "2.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.Native.dll"
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.Native.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0"
     },
@@ -5559,10 +5575,10 @@
         "Version": "2.5.5"
       },
       "Assemblies": [
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OOXML.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll"
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\npoi\\2.5.5"
     },
@@ -6930,8 +6946,8 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.Primitives.dll"
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.Primitives.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0"
     },
@@ -7163,10 +7179,10 @@
         "Version": "1.9.0"
       },
       "Assemblies": [
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib\\net6.0-windows7.0\\CefSharp.Core.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib\\net6.0-windows7.0\\CefSharp.Core.Runtime.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib\\net6.0-windows7.0\\CefSharp.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib\\net6.0-windows7.0\\CefSharp.Wpf.dll"
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib\\net6.0-windows7.0\\CefSharp.Core.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib\\net6.0-windows7.0\\CefSharp.Wpf.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\lib\\net6.0-windows7.0\\CefSharp.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0"
     },
@@ -7189,6 +7205,17 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.connectionclient\\1.4.4-20230126.1\\lib\\net5.0\\ConnectionClient.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.connectionclient\\1.4.4-20230126.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.DataService.Activities",
+        "Version": "23.10.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.dataservice.activities\\23.10.0\\lib\\net6.0-windows7.0\\UiPath.DataService.Activities.Core.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.dataservice.activities\\23.10.0\\lib\\net6.0-windows7.0\\UiPath.DataService.Activities.Design.dll"
+      ],
+      "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.dataservice.activities\\23.10.0"
     },
     {
       "Package": {
@@ -7218,9 +7245,9 @@
       "Assemblies": [
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib\\net6.0-windows7.0\\UiPath.DocumentUnderstanding.ML.Activities.Design.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib\\net6.0-windows7.0\\UiPath.DocumentUnderstanding.ML.Activities.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib\\net6.0-windows7.0\\UiPath.DocumentUnderstanding.ML.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib\\net6.0-windows7.0\\UiPath.DocumentUnderstanding.ML.Telemetry.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib\\net6.0-windows7.0\\UiPath.DocumentUnderstanding.ML.Trainer.dll"
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib\\net6.0-windows7.0\\UiPath.DocumentUnderstanding.ML.Trainer.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\lib\\net6.0-windows7.0\\UiPath.DocumentUnderstanding.ML.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0"
     },
@@ -7230,10 +7257,10 @@
         "Version": "1.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\concrt140.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\cvextern.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\Emgu.CV.Bitmap.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\Emgu.CV.Platform.NetStandard.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\concrt140.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\cvextern.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\msvcp140.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\msvcp140_1.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.emgucvbundle\\1.1.0\\lib\\net5.0\\msvcp140_2.dll",
@@ -7254,8 +7281,8 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\Microsoft.Vbe.Interop.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\Office.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.excel.activities\\2.22.3"
@@ -7290,12 +7317,12 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.DocumentUnderstanding.Persistence.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.IntelligentOCR.Activities.Design.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.IntelligentOCR.Activities.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.IntelligentOCR.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.IntelligentOCR.Legacy.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.IntelligentOCR.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.AccessProvider.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.BusinessRules.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.ClassificationStation.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.ClassificationStation.Host.Local.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.ClassificationStation.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.Data.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.DocumentClassification.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.Host.Local.Infrastructure.dll",
@@ -7306,18 +7333,18 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.OutOfProcessUi.Host.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.OutOfProcessUi.Host.exe",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.PDF.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.PositionBasedExtraction.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.PositionBasedExtraction.TemplateManager.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.PositionBasedExtraction.TemplateManager.exe",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.PositionBasedExtraction.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.TableProcessing.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.TaxonomyManager.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.TaxonomyManager.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.Telemetry.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.Utils.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.ValidationStation.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.ValidationStation.Host.Local.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.ValidationStation.Integration.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.ValidationStation.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1\\lib\\net6.0-windows7.0\\UiPath.SmartData.WPF.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.intelligentocr.activities\\6.14.1"
@@ -7406,8 +7433,8 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.Api.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.Design.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0\\lib\\net6.0-windows7.0\\UiPath.Testing.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.testing.activities\\23.10.0"
     },
@@ -7435,12 +7462,12 @@
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib\\net6.0-windows7.0\\UiPath.CV.Activities.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib\\net6.0-windows7.0\\UiPath.CV.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib\\net6.0-windows7.0\\UiPath.Semantic.Activities.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationCore.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.API.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Contracts.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.API.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.dll"
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.8"
     },
@@ -7452,9 +7479,9 @@
       "Assemblies": [
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Core.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.dll",
         "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.vision\\3.11.1"
     },

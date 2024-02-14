@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IvfoufBH6AnJZsk/SFJKtQRU0+b336TieBhX0KDA5Pva1Z5N9RK9s/2e7do23eQ9NGnY3VuJd52Q9dzIPEpy7g==",
+  "dgSpecHash": "YXBzEOsGRS2Fre8zFbauEgPfquvitxsSJ5RGydyMLgKqfWO48UlzM8Mz8NV9zQWtgPIzzSiykWYbDxB7Ch8EQg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jmcaravaca\\Documents\\UiPath\\TestMarcaRenovacion\\.local\\",
   "expectedPackageFiles": [
@@ -251,6 +251,7 @@
     "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.9.0\\uipath.cefsharpbundle.netcore.1.9.0.nupkg.sha512",
     "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.codedworkflows\\23.10.0\\uipath.codedworkflows.23.10.0.nupkg.sha512",
     "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.connectionclient\\1.4.4-20230126.1\\uipath.connectionclient.1.4.4-20230126.1.nupkg.sha512",
+    "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.dataservice.activities\\23.10.0\\uipath.dataservice.activities.23.10.0.nupkg.sha512",
     "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.23.1\\uipath.documentprocessing.contracts.1.23.1.nupkg.sha512",
     "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\3.7.0\\uipath.documentunderstanding.digitizer.3.7.0.nupkg.sha512",
     "C:\\Users\\jmcaravaca\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.24.0\\uipath.documentunderstanding.ml.activities.1.24.0.nupkg.sha512",
